@@ -1,0 +1,5 @@
+% MULTIPLICACION DE MATRIZ CON MATRIZ
+A = [1,2,3;4,5,6]
+B = [1,1,1;2,2,2;3,3,3]
+
+mult_AB = A * B
